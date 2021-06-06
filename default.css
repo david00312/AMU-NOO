@@ -5,13 +5,14 @@
 	
 	body
 	{
-		margin: 0px;
-		padding: 0px;
-		background: #181818;
-		font-family: 'Didact Gothic', sans-serif;
-		font-size: 12pt;
-		font-weight: 200;
-		color: #FFF;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 12pt;
+    font-weight: 200;
+    color: #FFF;
+    background-color: #181818;
+    background-image: none;
 	}
 	
 	
@@ -328,8 +329,9 @@
 	
 	#logo a
 	{
-		text-decoration: none;
-		color: rgba(255,255,255,1);
+    text-decoration: none;
+    color: rgba(255,255,255,1);
+    background-image: none;
 	}
 
 /*********************************************************************************/
@@ -533,4 +535,3 @@
 		text-align: center;
 		color: rgba(0,0,0,.5);
 	}
-
